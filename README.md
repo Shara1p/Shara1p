@@ -1,6 +1,6 @@
 - 🈁 Hi, I’m @Shara1p
 - 🍀 I’m interested in programing
-- 🕋 I’m currently learning Java
+- 🕋 I’m currently learning Java (especially interested in android)
 - 🎇 I’m looking to collaborate on everything
 - 📫 How to reach me: toptricker8@gmail.com
 
