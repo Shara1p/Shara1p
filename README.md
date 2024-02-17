@@ -1,6 +1,6 @@
 - 🈁 Hi, I’m @Shara1p
 - 🍀 I’m interested in programing
-- 🕋 I’m currently using C# (Building android app as job)
+- 🕋 I’m currently working as QA engineer
 - 🎇 I’m looking to collaborate on everything
 - 📫 How to reach me: toptricker8@gmail.com
 
