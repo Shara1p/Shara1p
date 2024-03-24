@@ -1,6 +1,7 @@
 - 🈁 Hi, I’m @Shara1p
 - 🍀 I’m interested in programing
-- 🕋 I’m currently working as QA engineer
+- 🕋 I currently work as QA engineer
+- ✨ I use python for work
 - 🎇 I’m looking to collaborate on everything
 - 📫 How to reach me: toptricker8@gmail.com
 
