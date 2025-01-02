@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Egor, 22 <br>⚡ QA<br>🔭 CS degree<br>👯 B2->C1 English<br>🤝 I want to become a developer<br>🌱 I’m currently learning Python
+💬 Egor, 22 <br>⚡ QA<br>🔭 CS degree<br>👯 C1 English<br>🤝 I want to become a developer<br>🌱 I’m currently learning Python
 
 
 # 💻 Tech Stack:
