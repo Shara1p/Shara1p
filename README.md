@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Egor, 22 <br>⚡ QA<br>🔭 CS degree<br>👯 C1 English<br>🤝 I want to become a developer<br>🌱 I’m currently learning .Net
+💬 Egor <br>⚡ QA<br>🔭 CS degree<br>👯 C1 English<br>🤝 I want to become a developer<br>🌱 I’m currently learning .Net
 
 
 # 📊 GitHub Stats:
